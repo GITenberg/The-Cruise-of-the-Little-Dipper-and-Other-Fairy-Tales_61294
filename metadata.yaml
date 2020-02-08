@@ -1,0 +1,36 @@
+_repo: The-Cruise-of-the-Little-Dipper-and-Other-Fairy-Tales_61294
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sewell, Helen
+    birthdate: 1896
+    deathdate: 1957
+    gutenberg_agent_id: '51345'
+    url: http://www.gutenberg.org/2009/agents/51345
+    wikipedia: https://en.wikipedia.org/wiki/Helen_Sewell
+creator:
+  author:
+    agent_name: Langer, Susanne K. (Susanne Katherina Knauth)
+    alias: Langer, Susanne Katherina Knauth
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '51344'
+    url: http://www.gutenberg.org/2009/agents/51344
+    wikipedia: https://en.wikipedia.org/wiki/Susanne_Langer
+description: ''
+gutenberg_issued: '2020-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The cruise of the Little Dipper -- The wonderful tale of Nikko --
+  Peter Dwarf -- The crystal bowl -- The Merciless Tsar.
+title: The Cruise of the Little Dipper, and Other Fairy Tales
+url: http://www.gutenberg.org/ebooks/61294
